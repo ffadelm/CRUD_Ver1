@@ -1,0 +1,7 @@
+D:\Belajar\DB\gramed\bin\Debug\gramed.exe.config
+D:\Belajar\DB\gramed\bin\Debug\gramed.exe
+D:\Belajar\DB\gramed\bin\Debug\gramed.pdb
+D:\Belajar\DB\gramed\obj\Debug\gramed.csprojAssemblyReference.cache
+D:\Belajar\DB\gramed\obj\Debug\gramed.csproj.CoreCompileInputs.cache
+D:\Belajar\DB\gramed\obj\Debug\gramed.exe
+D:\Belajar\DB\gramed\obj\Debug\gramed.pdb
