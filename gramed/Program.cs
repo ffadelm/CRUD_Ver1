@@ -26,7 +26,6 @@ namespace gramed
             Console.WriteLine("2 - bite & brigh");
             Console.WriteLine("3 - sari roti kr");
             Console.WriteLine("4 - kantong plas ");
-           
 
             //perulangan manu pilihan
             char ch;
